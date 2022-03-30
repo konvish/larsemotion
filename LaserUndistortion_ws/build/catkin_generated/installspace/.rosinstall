@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/kong/LaserMotion/LaserUndistortion_ws/install/setup.sh

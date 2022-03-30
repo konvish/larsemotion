@@ -1,0 +1,8 @@
+prefix=/home/kong/LaserMotion/LaserUndistortion_ws/devel
+
+Name: LaserUndistortion
+Description: Description of LaserUndistortion
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

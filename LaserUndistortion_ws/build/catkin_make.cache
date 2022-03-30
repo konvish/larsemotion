@@ -1,0 +1,2 @@
+LaserUndistortion
+-DCATKIN_DEVEL_PREFIX=/home/kong/LaserMotion/LaserUndistortion_ws/devel -DCMAKE_INSTALL_PREFIX=/home/kong/LaserMotion/LaserUndistortion_ws/install -G Unix Makefiles
